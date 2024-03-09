@@ -1,6 +1,8 @@
 # Speedtest-Graph
 A set of tools for speedtest monitoring
 
+![431188716_323631124035739_2731150893223690591_n](https://github.com/Kmac907/Speedtest-Graph/assets/120307903/48f191ad-844e-42a8-a7e3-87881c4529cf)
+
 Workflow
 - bash script creates a csv file and appends the results to it at a chosen interval
 - graph script pulls the data from the csv and creates graphs viewable from a web browser with automatic updates at a chosen interval
